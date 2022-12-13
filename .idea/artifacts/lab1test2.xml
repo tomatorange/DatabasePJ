@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab1test2">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab1test2</output-path>
+    <root id="archive" name="lab1test2.jar">
+      <element id="library" level="project" name="lib" />
+      <element id="module-output" name="part1" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../../Softwares/javamysqljar/mysql-connector-j-8.0.31/mysql-connector-j-8.0.31.jar" />
+    </root>
+  </artifact>
+</component>
